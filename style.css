@@ -45,9 +45,7 @@ nav a {
 /* HERO */
 
 .hero {
-  .hero {
-  .hero {
-  background: url('IMAGE_URL') no-repeat center center/cover;
+  background: url('https://images.unsplash.com/photo-1555992336-03a23c9d3a7c') no-repeat center center/cover;
   height: 85vh;
   display: flex;
   align-items: center;
@@ -78,9 +76,6 @@ nav a {
 section {
   padding: 60px 20px;
   text-align: center;
-}
-
-center;
 }
 
 .menu-grid {
